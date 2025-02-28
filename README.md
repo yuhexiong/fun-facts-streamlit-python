@@ -1,5 +1,8 @@
 # Fun Facts App
 
+**(also provided Traditional Chinese version document [README-CH.md](README-CH.md).)**
+
+
 Use Streamlit to create an interface with a button that fetches a random fun fact.  
 
 ## Overview
